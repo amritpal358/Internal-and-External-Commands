@@ -1,0 +1,31 @@
+				Assignment 1.2
+
+EXTERNAL  COMMAND:
+1)rm : remove the files  and it context from the directory
+	rm -vi : it remove the file
+2) date : 
+	date -u :print or set Coordinated Universal Time
+	date -R :print date and time in RFC 5322 format
+3)cat: this external command is used for concatenate file one by one and print file
+	cat -n : this command is used for numbering the line and print the nubers and of lines also
+4) ls :  this external command is used print all the files present in the directory
+5)mkdir : this command is used to make new directory
+
+
+
+INTERNAL COMMAND:
+1)exit : this internal command is used to exit from the shell
+2)cd : to go back  to previous directory
+	cd ..: to go one down
+	cd ../.. :to go two don
+3)history: this internal command is used to print all command is entered after runnning the programms
+4)pwd : this is print the present working dirctory path
+5) echo : this is used to priint the string entered 
+	echo -n: used to print without go to new line
+
+
+ASSUMPTION:
+My assumption is that all command have 0,1,2 command. 
+echo -n remove lines.
+
+
